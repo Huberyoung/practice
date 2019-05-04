@@ -22,7 +22,7 @@ class SessionsController extends Controller
      */
     public function index()
     {
-        //
+
     }
 
     /**
